@@ -1,11 +1,14 @@
 {
-  "posts": [
+  "電競/電腦設備": [
     {
       "id": 1,
-      "title": "hello"
+      "category": "電競套裝"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "電玩游戲": [
+    {
+      "id": 1,
+      "category": "子分類測試"
+    }
+  ]
 }
